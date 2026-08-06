@@ -6,4 +6,4 @@ MAC INSTRUCTIONS. look to the right of your screen where it display releases. cl
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-WINDOWS INSTRUCTIONS. look to the right of your screen where it display releases. click "RagWorldDemo-Windows" and download the .exe file, once downloaded drag the file to your desktop
+WINDOWS INSTRUCTIONS. look to the right of your screen where it display releases. click "RagWorldDemo-Windows" and download the .zip file, once downloaded drag the file to your desktop, unzip, and then run it!
