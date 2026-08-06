@@ -2,8 +2,8 @@ This is the demo for my new OpenWorld Explorer/Fighter [keep in mind this is Ver
 
 
 
-MAC INSTRUCTIONS. look to the right of your screen where it display releases. click "RagWorldDemo-Mac" and download the .zip file, once downloaded drag the file to your desktop, unzip, and then run it!
+MAC INSTRUCTIONS. look to the right of your screen where it display releases. click "RagWorldDemo-Mac" and download the .zip file, once downloaded drag the file to your desktop, unzip, and then run the .app file!
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-WINDOWS INSTRUCTIONS. look to the right of your screen where it display releases. click "RagWorldDemo-Windows" and download the .zip file, once downloaded drag the file to your desktop, unzip, and then run it!
+WINDOWS INSTRUCTIONS. look to the right of your screen where it display releases. click "RagWorldDemo-Windows" and download the .zip file, once downloaded drag the file to your desktop, unzip, and then run the .exe file!
