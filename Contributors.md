@@ -1,3 +1,5 @@
 Main Programmer - TheOfficalGuiT
 
-Map Design
+Map Design - TheOfficialGuiT
+
+Animations - TheOfficialGuiT
